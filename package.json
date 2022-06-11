@@ -1,5 +1,5 @@
 {
-  "name": "growl",
+  "name": "growl-modal",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
